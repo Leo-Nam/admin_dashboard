@@ -21,6 +21,7 @@ export default function Topbar() {
 				<div className="topbarIconContainer">
 					<Settings />
 				</div>
+				<img src="https://assets.imgix.net/examples/bluehat.jpg?fp-debug=1&crop=focalpoint&fit=crop&h=600&w=900&auto=compress" alt="" className="topAvatar" />
 			</div>
 		</div>
 	</div>
