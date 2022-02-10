@@ -61,6 +61,9 @@ export default function chart() {
 					<XAxis dataKey="name" stroke="#5550bd" />
 					<Line type="monotone" dataKey="Active User" stroke="#5550bd" />
 					<Tooltip />
+					<CartesianGrid stroke="#e0dfdf" strokeDasharray={15, 15} />
+					<YAxis />
+					<Legend />
 				</LineChart>
 			</ResponsiveContainer>
 		</div>
