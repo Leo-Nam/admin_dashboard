@@ -7,7 +7,7 @@ export default function Topbar() {
 	<div className="topbar">
 		<div className="topbarWrapper">
 			<div className="topLeft">
-				<span className="logo">Leo Admin</span>
+				<span className="logo">Chium v2.0 Admin</span>
 			</div>
 			<div className="topRight">
 				<div className="topbarIconContainer">
