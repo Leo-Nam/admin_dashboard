@@ -5,7 +5,7 @@ export default function featuredInfo() {
   return (
 	<div className="featured">
 		<div className="featuredItem">
-			<span className="featuredTitle">Revenue</span>
+			<span className="featuredTitle">수익</span>
 			<div className="featuredMonyContainer">
 				<span className="featuredMoney">$2,415</span>
 				<span className="featuredMoneyRate">
@@ -15,7 +15,7 @@ export default function featuredInfo() {
 			<span className="featuredSub">Compared to last month</span>
 		</div>
 		<div className="featuredItem">
-			<span className="featuredTitle">Sales</span>
+			<span className="featuredTitle">영업실적</span>
 			<div className="featuredMonyContainer">
 				<span className="featuredMoney">$4,415</span>
 				<span className="featuredMoneyRate">
@@ -25,7 +25,7 @@ export default function featuredInfo() {
 			<span className="featuredSub">Compared to last month</span>
 		</div>
 		<div className="featuredItem">
-			<span className="featuredTitle">Cost</span>
+			<span className="featuredTitle">비용</span>
 			<div className="featuredMonyContainer">
 				<span className="featuredMoney">$2,215</span>
 				<span className="featuredMoneyRate">

@@ -1,0 +1,54 @@
+.newProduct {
+	flex: 4;
+}
+
+.newProductContainer {
+	display: flex;
+	align-items: center;
+}
+
+.newProductLeft {
+	flex: 1;
+}
+
+.newProductRight {
+	flex: 2;
+}
+
+.newProductItem {
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.newProductItem > input {
+	margin-top: 10px;
+}
+
+.newProductItem > select {
+	width: 250px;
+	height: 30px;
+}
+
+.newProductForm {
+	display: flex;
+	flex-direction: column;
+}
+
+.newProductItemInput {
+	width: 250px;
+	height: 30px;
+}
+
+.newProductButton {
+	margin-top: 20px;
+	width: 100px;
+	border-radius: 5px;
+	bottom: none;
+	padding: 5px;
+	cursor: pointer;
+	background: darkblue;
+	color: white;
+	font-weight: 600;
+
+}
